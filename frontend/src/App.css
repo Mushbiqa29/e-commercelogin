@@ -1,0 +1,17 @@
+@media(min-width:1024px){
+    .form{
+        transform:scaley(0.5);
+        position:absolute;
+        right:80px;
+        bottom:-85px;
+    }
+    .login{
+        bottom:-5px;
+        transform:scaleY((0.6))
+    }
+}
+.dashboard{
+    background: url("../src/assets/bg.jpg") no-repeat center center fixed;
+      background-size: cover;
+      position:relative;
+}
